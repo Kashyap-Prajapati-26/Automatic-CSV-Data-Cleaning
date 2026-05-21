@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CleanFlow - Data Cleaning & Reporting Automation Web App
 
 CleanFlow is a professional and lightweight automated data cleaning and reporting application. It enables users to upload a raw CSV file, automatically clean it (handling missing numbers, missing text, text casing, and duplicate rows), view key metrics and visualizations in a dashboard, and download the standardized cleaned CSV.
@@ -76,6 +76,4 @@ charlie green,22,40000,Chicago,2022-01-20
 3. **Missing Text Handling**: Fills blank text/categorical cells with `"Unknown"`.
 4. **Casing Standardization**: Strips leading/trailing spaces and converts text strings to proper `Title Case` (e.g. `john doe` -> `John Doe`).
 =======
-# Automatic-CSV-Data-Cleaning
-Upload any dirty CSV file. The system will automatically detect missing values, standardize text casing, drop duplicates, and generate a dynamic dashboard preview.
->>>>>>> 2fa336b42e8da30cf9950d5a2d54d98b447d79fc
+
